@@ -2,3 +2,5 @@
 这是修改过的文件
 这是又加上的一条内容
 这是加上的第二条内容
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
